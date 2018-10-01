@@ -1,0 +1,7 @@
+src/test/webapp
+target
+.settings
+.project
+.classpath
+*.iml
+.idea
